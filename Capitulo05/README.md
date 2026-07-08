@@ -5,7 +5,7 @@
 | Atributo | Detalle |
 | :--- | :--- |
 | **Duración** | 90 minutos (Alta Densidad en Ciberseguridad, Gobierno de Datos y Cumplimiento Legal) |
-| **Complejidad** | Avanzada |
+| **Complejidad** | Intermedia |
 | **Audiencia** | Gerentes de Compensaciones, Oficiales de Privacidad de Datos, Analistas de Nómina, Auditores de TI y Profesionales de Recursos Humanos |
 | **Tecnologías** | Microsoft Copilot (M365), Microsoft Excel y Microsoft Word |
 | **Enfoque** | Diseño e implementación de protocolos de encriptación lógica, técnicas de enmascaramiento y anonimización de salarios, matrices de control de accesos basados en roles (RBAC) y cumplimiento estricto de la normativa de protección de datos personales. |
