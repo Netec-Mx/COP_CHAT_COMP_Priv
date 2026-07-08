@@ -1,4 +1,4 @@
-# Práctica 5 — Auditoría y Encriptación de Reportes de Nómina con Copilot
+# Auditoría y Encriptación de Reportes de Nómina con Copilot
 
 ## 1. Metadatos del Laboratorio
 
