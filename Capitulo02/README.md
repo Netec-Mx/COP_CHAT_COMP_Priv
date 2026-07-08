@@ -7,7 +7,7 @@
 | **Duración** | 60 minutos |
 | **Complejidad** | Intermedia |
 | **Audiencia** | Gerentes de Compensaciones, Analistas de Nómina, Especialistas en Relaciones Laborales y Profesionales de Recursos Humanos |
-| **Tecnologías** | Microsoft Copilot Chat (M365), Copilot Image Generator (DALL-E), Microsoft Excel y Microsoft Word |
+| **Tecnologías** | Microsoft Copilot Chat (M365), Microsoft Excel y Microsoft Word |
 | **Enfoque** | Optimización operativa del ciclo de nómina mediante la automatización de la carga de incidencias, layouts de seguridad social y análisis predictivo de gastos departamentales utilizando inteligencia artificial. |
 
 ---
