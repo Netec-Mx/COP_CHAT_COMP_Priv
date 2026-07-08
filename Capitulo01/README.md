@@ -7,7 +7,7 @@
 | **Duración** | 60 minutos (Alta Densidad de Análisis de Cumplimiento y Costeo) |
 | **Complejidad** | Intermedia |
 | **Audiencia** | Gerentes de Compensaciones, Analistas de Nómina, Especialistas en Relaciones Laborales y Profesionales de Recursos Humanos |
-| **Tecnologías** | Microsoft Copilot Chat (M365), Copilot Image Generator (DALL-E), Microsoft Excel y Microsoft Word |
+| **Tecnologías** | Microsoft Copilot Chat (M365), Microsoft Excel y Microsoft Word |
 | **Enfoque** | Aplicación dual de IA para la interpretación precisa de reformas laborales en México (LFT, IMSS, Infonavit, SAT), automatización de matrices de costo patronal e integración de un plan de blindaje fiscal. |
 
 ---
