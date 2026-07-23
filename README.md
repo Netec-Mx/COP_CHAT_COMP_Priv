@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # COPILOT EN COMPENSACIONES
 
 Este seminario ofrece un enfoque dual que combina la consulta normativa avanzada con la aplicación práctica de la IA en la gestión de beneficios y nóminas. Los participantes aprenderán a utilizar herramientas de inteligencia artificial para navegar por la complejidad de la Ley Federal del Trabajo, IMSS e Infonavit, automatizando procesos críticos como el cálculo de nóminas, la validación de conceptos ante el SAT y la gestión masiva de incidencias en Excel.
@@ -56,8 +58,12 @@ Este seminario ofrece un enfoque dual que combina la consulta normativa avanzada
   - Descripción: Desarrollar la actividad práctica descrita para el capítulo, aplicando el uso de IA y Microsoft 365 Copilot conforme al alcance indicado: Simulación de un agente interconectado para auditorías de pago.
   - Duración estimada: 90 min
 
-## Flujo de colaboración
+  ---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
